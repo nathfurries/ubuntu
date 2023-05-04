@@ -1,4 +1,4 @@
-FROM ubuntu/ubuntu:lunar
+FROM ubuntu:lunar
 MAINTAINER ubuntu
 
 # Dependency
