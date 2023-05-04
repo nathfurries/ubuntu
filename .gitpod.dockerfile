@@ -1,5 +1,5 @@
-FROM renayura/ubuntu:latest
-MAINTAINER Renayura 
+FROM ubuntu/ubuntu:lunar
+MAINTAINER ubuntu
 
 # Dependency
 RUN apt-get install openssh-server screen python-is-python3 git openjdk-8-jdk adb bc bison \
